@@ -631,7 +631,7 @@ input:checked + .slider:before {
   z-index: 1002 !important;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .header {
     display: block;
     height: 210px;
@@ -753,3 +753,5 @@ input:checked + .slider:before {
     margin-bottom: 35px !important;
   }
 }
+
+
